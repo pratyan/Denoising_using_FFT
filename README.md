@@ -2,10 +2,10 @@
 Denoising a signal with "Fast Fourier Transform" algorithm.
 
 # Created the noised signal
-![](Images/Screenshot(140))
+![](images/Screenshot(140))
 
 # Speculated the PSD and used 100 as threshold
-![](Images/Screenshot(141))
+![](images/Screenshot(141))
 
 # The filtered signal after inverse FFT 
-![](Images/Screenshot(142))
+![](images/Screenshot(142))
